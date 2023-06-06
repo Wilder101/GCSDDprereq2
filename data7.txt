@@ -1,0 +1,5 @@
+hello
+greetings
+salutations
+hola
+bonjour
