@@ -8,6 +8,7 @@ Written primarily on June 4, 2023 in C++, this is a sample assignment from UWB C
 
 ## References
 [UWB STEM Graduate Certificate Prerequisite Sample Coursework](https://www.uwb.edu/stem/graduate/gcsdd/sample-coursework) 
+
 [UWB GCSDD Overview](https://www.uwb.edu/stem/graduate/gcsdd)
 
 
