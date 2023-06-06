@@ -7,7 +7,7 @@
 *   Dr. Emily M. Bender Rule: C++
 * 
 *   From UWB Computing & Software Systems (CSS) 142:
-*   Programming Competency Self-Assessment: Second Assessment (one four)
+*   Programming Competency Self-Assessment: Second Assessment (two of four)
 *   "Hangperson Game"
 *   
 *   main.cpp
